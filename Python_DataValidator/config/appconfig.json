@@ -31,7 +31,8 @@
     "blank_equivalents": ["", "-", "_", "NA", "N/A", "None", "null"],
     "numeric_majority_threshold": 0.8,
     "strip_commas_and_spaces": true,
-    "remove_underscores_in_numbers": false
+    "remove_underscores_in_numbers": false,
+    "date_detect_threshold": 0.6
   
 }
 
